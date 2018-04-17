@@ -1,0 +1,9 @@
+c:\users\zolta\onedrive\documents\visual studio 2015\Projects\DiophantineEquation\DiophantineEquation\bin\Debug\DiophantineEquation.exe.config
+c:\users\zolta\onedrive\documents\visual studio 2015\Projects\DiophantineEquation\DiophantineEquation\bin\Debug\DiophantineEquation.exe
+c:\users\zolta\onedrive\documents\visual studio 2015\Projects\DiophantineEquation\DiophantineEquation\bin\Debug\DiophantineEquation.pdb
+c:\users\zolta\onedrive\documents\visual studio 2015\Projects\DiophantineEquation\DiophantineEquation\obj\Debug\DiophantineEquation.csprojResolveAssemblyReference.cache
+c:\users\zolta\onedrive\documents\visual studio 2015\Projects\DiophantineEquation\DiophantineEquation\obj\Debug\DiophantineEquation.Form1.resources
+c:\users\zolta\onedrive\documents\visual studio 2015\Projects\DiophantineEquation\DiophantineEquation\obj\Debug\DiophantineEquation.Properties.Resources.resources
+c:\users\zolta\onedrive\documents\visual studio 2015\Projects\DiophantineEquation\DiophantineEquation\obj\Debug\DiophantineEquation.csproj.GenerateResource.Cache
+c:\users\zolta\onedrive\documents\visual studio 2015\Projects\DiophantineEquation\DiophantineEquation\obj\Debug\DiophantineEquation.exe
+c:\users\zolta\onedrive\documents\visual studio 2015\Projects\DiophantineEquation\DiophantineEquation\obj\Debug\DiophantineEquation.pdb
